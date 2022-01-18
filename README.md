@@ -1,6 +1,6 @@
 # Fake News Classifier
 
-This application was created as my final project for a course in Tech University Dublin on the Foundations and Artificial Intelligence. The project was done in Python and Jupiter Notebooks and made use of libraries such as Sklearn, Pandas, Spacy, re (regular expression), Matplotlib and the time library as well. The result of the project and my final grade was 73%. The repo contains three documents from this submission:
+This application was created as my final project for a course in Tech University Dublin on the Foundations and Artificial Intelligence. The project was done in Python and Jupiter Notebooks and made use of libraries such as Sklearn, Pandas, Spacy, re (regular expression), Matplotlib and the time library as well. The result of the project and my final grade was 73%. The repo contains three files from this submission:
 - The Project Iniation Document
 - The Project Development Solution (which includes the code)
 - Jupyter Notebook with coded solution
